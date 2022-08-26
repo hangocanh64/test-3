@@ -1,0 +1,22 @@
+.schedule_grid.time_1000 .img_current_time_1000,
+.schedule_grid.time_1030 .img_current_time_1030,
+.schedule_grid.time_1100 .img_current_time_1100,
+.schedule_grid.time_1130 .img_current_time_1130,
+.schedule_grid.time_1200 .img_current_time_1200,
+.schedule_grid.time_1230 .img_current_time_1230,
+.schedule_grid.time_1300 .img_current_time_1300,
+.schedule_grid.time_1330 .img_current_time_1330,
+.schedule_grid.time_1400 .img_current_time_1400,
+.schedule_grid.time_1430 .img_current_time_1430,
+.schedule_grid.time_1500 .img_current_time_1500,
+.schedule_grid.time_1530 .img_current_time_1530,
+.schedule_grid.time_1600 .img_current_time_1600,
+.schedule_grid.time_1630 .img_current_time_1630,
+.schedule_grid.time_1700 .img_current_time_1700,
+.schedule_grid.time_1730 .img_current_time_1730,
+.schedule_grid.time_1800 .img_current_time_1800,
+.schedule_grid.time_1830 .img_current_time_1830,
+.schedule_grid.time_1900 .img_current_time_1900,
+.schedule_grid.time_1930 .img_current_time_1930 {
+    background: #fbfbfb url("images/schedule_body_bg.gif");
+}
