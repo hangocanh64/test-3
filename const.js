@@ -1,8 +1,3 @@
-// 枠 画面上の列の数（何列目か） ※ステータスコードではない
-const FLAME_QEEG_ONLINE = 1212; // オンライン相談　11列目
-const FLAME_QEEG_PAID_FREE = 1111; // 無料・有料QEEG　12列目
-const FLAME_QEEG_FIRST_VISIT = [1,2,3,4,5,6,7,8,9,10]; // 初診　1-10列目
-
 // table:status_codes
 // 予約種別 st_reserve_class
 const STATUS_QEEG_FIRST_VISIT = 20;
